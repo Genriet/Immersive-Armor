@@ -1,0 +1,9 @@
+surfaceInfo="ImmersiveArmor\penetration\IA_kevlar_class_5.bisurf";
+ambient[]={0.49019599,0.59215701,0.55686301,1};
+diffuse[]={0.49019599,0.59215701,0.55686301,1};
+forcedDiffuse[]={0,0,0,0};
+emmisive[]={0,0,0,1};
+specular[]={0,0,0,1};
+specularPower=1;
+PixelShaderID="Normal";
+VertexShaderID="Basic";
