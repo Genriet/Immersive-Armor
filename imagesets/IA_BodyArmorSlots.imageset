@@ -1,0 +1,20 @@
+ImageSetClass {
+ Name "IA_BodyArmorSlots"
+ RefSize 510 510
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{FC4E0A6B62FC1107}ImmersiveArmor/imagesets/IA_BodyArmorSlots.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass armor_plate {
+   Name "armor_plate"
+   Pos 0 0
+   Size 170 170
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}
