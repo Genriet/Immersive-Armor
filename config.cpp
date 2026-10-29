@@ -126,41 +126,41 @@ class CfgVehicles
 	};
 
 	//PoliceVest
-	class  IA_ArmorHitbox_PoliceVest_Top : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PoliceVest_Top : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_policevest_top.p3d";
 	};
-	class  IA_ArmorHitbox_PoliceVest_Low : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PoliceVest_Low : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_policevest_low.p3d";
 	};
-	class  IA_ArmorHitbox_PoliceVest_Sides : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PoliceVest_Sides : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_policevest_sides.p3d";
 	};
 
 	//PressVest
-	class  IA_ArmorHitbox_PressVest_Top : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PressVest_Top : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_pressvest_top.p3d";
 	};
-	class  IA_ArmorHitbox_PressVest_Low : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PressVest_Low : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_pressvest_low.p3d";
 	};
-	class  IA_ArmorHitbox_PressVest_Sides : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PressVest_Sides : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_pressvest_sides.p3d";
 	};
 
 	//PlateCarrier
-	class  IA_ArmorHitbox_PlateCarrier_Sides : IA_HelmetHitboxBase
+	class  IA_ArmorHitbox_PlateCarrier_Sides : IA_ArmorHitboxBase
 	{
 		scope = 1;
 		model = "ImmersiveArmor\models\hitboxes\hitbox_platecarrier_sides.p3d";
